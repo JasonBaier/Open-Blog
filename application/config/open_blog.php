@@ -4,18 +4,23 @@
 | Open Blog Information
 |--------------------------------------------------------------------------
 |
-| Informations related with Open Blog
+| Information related to Open Blog
+| Current Owner
+|
+| Previous
+| $config['author'] = 'Tomaž Muraus';
+| $config['author_email'] = 'kami@open-blog.info';
 |
 */
 
 $config['version'] = '1.2.1';
-$config['author'] = 'Tomaž Muraus';
-$config['author_email'] = 'kami@open-blog.info';
-$config['version_check_url'] = 'http://update.open-blog.info/';
-$config['website_url'] = 'http://www.open-blog.info';
-$config['documentation_url'] = 'http://docs.open-blog.info';
-$config['bugtracker_url'] = 'http://bugs.open-blog.info';
-$config['download_url'] = 'http://www.open-blog.info/downloads';
+$config['author'] = 'Enliven Applications';
+$config['author_email'] = 'info@open-blog.org';
+$config['version_check_url'] = 'http://updates.open-blog.org/';
+$config['website_url'] = 'http://www.open-blog.org';
+$config['documentation_url'] = 'http://docs.open-blog.org';
+$config['bugtracker_url'] = 'https://github.com/enlivenapp/Open-Blog/issues';
+$config['download_url'] = 'http://www.open-blog.org/downloads';
 
 /* End of file open_blog.php */
 /* Location: ./application/config/open_blog.php */

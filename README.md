@@ -10,7 +10,7 @@ In the next few weeks you'll see development starting up again with CI 3.1.x and
 
 Open Blog v1.x code is outdated and might contain security vulnerabilities so you are **strongly advised against using it**.
 
-Features
+##Features
 
 * Friendly user interface
 * Easy to install
