@@ -10,7 +10,7 @@ The latest Development for Open Blog can be found in it's own repository.
 
 ## Depreciation Notice
 
-Open Blog v1.x code is DEPRECIATED. It may contain security vulnerabilities so you are **strongly advised against using it**. 
+Open Blog v1.x code is DEPRECIATED and no longer maintained. It may contain security vulnerabilities. **You are strongly advised against using it**. 
 
 
 ##Links
